@@ -39,7 +39,7 @@ The classifications has been done using both K-Nearest Neighbours and Logistic R
  categorical dependent variable. Therefore the outcome must be a categorical or discrete value. It can be either Yes or No, 0 or 1, true or False, etc,    but instead of giving the exact value as 0 and 1, it gives the probabilistic values which lie between 0 and  1. The curve from the logistic function      indicates the likelihood of the data.
 
 ## Comparing the algorithms
- The training accuracy and model accuracy score of both the algorithms has been compared and shown using histograms. It is thus observed that Logistic     Regression is giving more accurate result than KNN.
+ The training accuracy and model accuracy score of both the algorithms has been compared and shown using histograms.
  
 <img src="https://github.com/flawed-hooman/Breast_Cancer_Prediction/assets/117461708/b8a40207-0327-4a98-a885-31a3343dfb3b" width="60%">
 
